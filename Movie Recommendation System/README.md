@@ -1,5 +1,7 @@
 # Movie Recommendation System WebApp - End to End Project
 
+![](https://winxtech.com/theme-assets/movie-reco.webp)
+
 Link to data set : [CLICK HERE TO DOWNLOAD](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
 
