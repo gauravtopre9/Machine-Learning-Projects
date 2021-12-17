@@ -2,7 +2,7 @@
 
 ![](https://winxtech.com/theme-assets/movie-reco.webp)
 
-[![Web App GIF](Figures/Web_App_GIF_Aug23.gif)](https://twitter-analysis-web-app.herokuapp.com)
+[![Web App GIF](https://github.com/gauravtopre9/Machine-Learning_projects/blob/main/Movie%20Recommendation%20System/Webappgif.gif.mp4)](https://twitter-analysis-web-app.herokuapp.com)
 <br/>
 
 Link to data set : [CLICK HERE TO DOWNLOAD](https://movie-recommend-gaurav.herokuapp.com/)
