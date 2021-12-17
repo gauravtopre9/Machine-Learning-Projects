@@ -2,7 +2,10 @@
 
 ![](https://winxtech.com/theme-assets/movie-reco.webp)
 
-Link to data set : [CLICK HERE TO DOWNLOAD](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
+[![Web App GIF](Figures/Web_App_GIF_Aug23.gif)](https://twitter-analysis-web-app.herokuapp.com)
+<br/>
+
+Link to data set : [CLICK HERE TO DOWNLOAD](https://movie-recommend-gaurav.herokuapp.com/)
 
 
 Heroku App : [Click here to see Movie Recommender By Gaurav](https://movie-recommend-gaurav.herokuapp.com/)
