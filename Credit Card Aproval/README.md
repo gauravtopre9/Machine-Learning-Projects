@@ -13,4 +13,23 @@
 7. Checking Hypothesis on x_test
 8. Calculating f1 and Accuracy score on y_test and y_test_predicted
 
-In this project I made use of maths for Machine Learning. Yes we observe that using libraries we are unable to achieve large accuarcy but we can do so by optimizing theta
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Mathematics Used:
+
+1. Hypothesis Function for Logistic Regresion (Logistic sigmoid Function) 
+
+      ![image](https://user-images.githubusercontent.com/80534916/150652109-4ead431a-6eaa-4a3a-8763-0570d39b6b30.png)
+
+2. Cost Function 
+
+      ![image](https://user-images.githubusercontent.com/80534916/150652145-157c888b-b2f1-400e-a640-d3aca251c2b3.png)
+
+3. Scipy Optimization Funxtion for minimizing Theta
+
+      [https://docs.scipy.org/doc/scipy/tutorial/optimize.html](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
+
+
+
+
+**In This Project I made Extensive use of maths without using any Sklearn Library and I achieved Accuaracy of 90 %**
