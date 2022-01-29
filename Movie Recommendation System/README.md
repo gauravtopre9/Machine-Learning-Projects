@@ -27,7 +27,7 @@ In this project I had created a WebApplication where you can choose the movie yo
 8. Used Heroku for WebApp deployment.
 
 
-### How my WebApp Looks.....
+### How my WebApp Looks....
 
 ##### 1. Select a movie from dropdown and click on Recommend movie button
 
