@@ -5,6 +5,10 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Tech-Stack
+
+<img src="https://img.shields.io/badge/Machine%20Learning%20-Logistic%20Regression%20-blue">
+
 ## Project Steps:
 
 1. Importing and understanding data
