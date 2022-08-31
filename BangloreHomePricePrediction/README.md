@@ -1,1 +1,0 @@
-# Banglore House Price Prediction
