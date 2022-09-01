@@ -5,9 +5,10 @@
 
 
 ## This repository Consists of following Projects
- **1. Image Classification of CEOs**
- 
- **2. Loan Prediction**
- 
- **3. Sentiment Analysis**
+
+1. Movie Recommendation System
+2. Loan Approval
+3. Credit Card Approval
+4. House Rent Prediction 
+5. Medical Insurance Cost Prediction 
  
